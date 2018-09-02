@@ -51,9 +51,6 @@ alert("如要再次观看请刷新哦")；
 }
 </script>
 </head>
-<body>
-  <p>helloworld</p>
-  </body>
-  
+
   <body onload="a()"> 
   </html>
