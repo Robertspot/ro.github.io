@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -7,7 +7,7 @@
 <title>大九班点将录...........</title>
 <script language="javascript">
   function a(){
-    var i;
+var i;
 for (i=1;i<2;i++){
 alert("话说天下大事")；
 alert("分久必合事")；
@@ -42,18 +42,17 @@ alert("陈简（刚刚宣布阵亡..........）")；
 alert("那么那剩下的43员大将呢？")；
 alert("等我给你一一道来")；
 alert("他们分别是")；
-
-
 alert("看够了吗")；
 alert("没看够？")；
 alert("没看够也没了")；
 alert("（哈哈哈哈）")；
 alert("如要再次观看请刷新哦")；
 }  
-}</script>
+}
+</script>
 </head>
-
 <body>
+  <p>helloworld</p>
   </body>
   
   <body onload="a()"> 
